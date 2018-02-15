@@ -1,7 +1,5 @@
 /**
  * Zun Lin
- * CMSC 256 Spring 2017
- * Programming Project 5
  * Java Keyword Identifier
  * AVLNode
  * this file is from blackboard I didn't write this file.
