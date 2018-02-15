@@ -1,7 +1,5 @@
 /**
  * Zun Lin
- * CMSC 256 Spring 2017
- * Programming Project 5
  * Java Keyword Identifier
  * this is AVL tree
  * this file is from blackboard I didn't write this file. except for the level order traversal method.
