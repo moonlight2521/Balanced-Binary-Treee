@@ -2,8 +2,6 @@ import java.util.*;
 
 /**
  * Zun Lin
- * CMSC 256 Spring 2017
- * Programming Project 5
  * Java Keyword Identifier
  * the program is to count the frequency of the word
  * this file is from blackboard I didn't write this file. I modified it a little.
