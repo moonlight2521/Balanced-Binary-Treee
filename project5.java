@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * Zun Lin
- * CMSC 256 Spring 2017
- * Programming Project 5
  * Java Keyword Identifier
  * This program read in a keyword file and name of the source code file to be analyzed
  * the keyword file is then put in to a binary search tree. then the source code file is
